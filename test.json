@@ -29,7 +29,7 @@
 {"key":"csp_xpath_789kp","name":"789看片(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/789kp.json"},
 {"key":"csp_xpath_348z","name":"348电影(XPMac)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/348z.json"},
 {"key":"csp_xpath_dmntv","name":"狐灵影视(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/dmntv.json"},
-{"key":"if101资源","name":"if101(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/yanghy/CatTV/main/if101.json"},
+{"key":"csp_xpath_if101","name":"if101(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/yanghy/CatTV/main/if101.json"},
 {"key":"csp_xpath_aidi_yh","name":"爱迪影视(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/aidi.json"},
 {"key":"csp_xpath_axx2_yh","name":"爱西西影视(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Aixixi.json"},
 {"key":"csp_xpath_auete_yh","name":"Auete影视(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/auete.json"},
